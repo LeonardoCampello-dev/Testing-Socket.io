@@ -7,14 +7,18 @@
 
 <h2 align="center">
 
-> A simple chat in real time 📩
+A simple chat in real time 📩
 
 </h2>
 
-## 🚀 Technologies used
+## 🚀 Technology 
 
-- JavaScript
-- Node.js
-- Socket.io 
+- [x] JavaScript
+- [x] Node.js
+
+### 📚 Libraries 
+
+- [socket.io](https://socket.io/)
+- [ejs](https://ejs.co/)
 
 ## Made with love by Leonardo Campello 💚
